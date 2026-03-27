@@ -11,7 +11,5 @@ public class java18 {
          a=b+a;
          b=a-b;
         System.out.println(a+","+b);
-
-
     }
 }
