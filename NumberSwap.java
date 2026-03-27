@@ -6,11 +6,9 @@ public class NumberSwap {
         System.out.println(a);
         System.out.println(b);
     }
-
     public static void main(String args[]) {
         int a = 24;
         int b = 35;
         swap(a, b);
     }
-
 }
