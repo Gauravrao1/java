@@ -11,8 +11,6 @@ static void printarry(int arr[]){
     }
     System.out.println();
     }
-
-
     static void reverseArry(int []arr){
         int i=0;
         int j=arr.length-1;
@@ -22,12 +20,10 @@ static void printarry(int arr[]){
             j--;
         }
     }
-
     public static void main(String[] args) {
         int arr[]={1,2,3,4,5};
         reverseArry(arr);
-
-        printarry(arr);
+       printarry(arr);
 
     }
 }
