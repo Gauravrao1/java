@@ -7,12 +7,10 @@ class Arrysexample {
             if (arr[i] > max) {
                 max = arr[i];
             }
-
         }
         System.out.println(max);
     }
 }
-
 public class ArrayMaxFinder {
     public static void main(String[] args) {
         Arrysexample.gre();
