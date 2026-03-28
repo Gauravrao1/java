@@ -37,7 +37,5 @@ public class java13 {
             arr[i] = sc.nextInt();
         }
         System.out.print("unique element: " + findunique(arr));
-
     }
-
 }
