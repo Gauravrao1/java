@@ -12,7 +12,6 @@ class Arrysproblem {
             }
         }
         System.out.println(count);
-
     }
 }
 
