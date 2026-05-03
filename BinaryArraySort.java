@@ -31,7 +31,7 @@ public class javac BinaryArraySort{
             } else {
                 arr[i] = 1;
             }
-        }
+        } 
     }
 
     }
