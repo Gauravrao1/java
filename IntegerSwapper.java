@@ -4,7 +4,7 @@ public class java18 {
 //int temp=30;
 //a=b;
 //b=temp;
-
+ 
         int a = 30;
         int b = 40;
          b=b-a;
