@@ -10,6 +10,6 @@ public class CountOccurrences {
 
             }
         }
-        System.out.println(count);
+        System.out.println(count); 
     }
 }
