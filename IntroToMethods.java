@@ -9,6 +9,7 @@ public class IntroToMethods{
         Scanner obj = new Scanner(System.in);
         int sum = a + b;
         System.out.println("sum is" + sum);
+
     }
     public static void main(String args[]) {
         printhelloworld();
