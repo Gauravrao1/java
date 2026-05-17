@@ -12,7 +12,7 @@ static void printarry(int arr[]){
     System.out.println();
     }
     static void reverseArry(int []arr){
-        int i=0;
+        int i=0; 
         int j=arr.length-1;
         while (i<j){
             swapinarr(arr,i,j);
