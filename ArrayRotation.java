@@ -31,7 +31,7 @@ public class ArrayRotation {
         int[] arr = new int[n];
         System.out.println("Enter " + n + " element");
         for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
+            arr[i] = sc.nextInt(); 
         }
         System.out.print("enter k: ");
         int k = sc.nextInt();
