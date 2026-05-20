@@ -5,7 +5,7 @@ public class ArrayReverser {
     // int []arr={1,3,4,5,5,7,8,4};
     // for (int i=arr.length-1;i>=0;i--){
     // System.out.print(arr[i]);}
-    static void printarry(int arr[]) {
+    static void printarry(int arr[]) { 
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]);
         }
