@@ -9,6 +9,7 @@ class Arrysexample {
             }
         }
         System.out.println(max);
+    
     }
 }
 public class ArrayMaxFinder {
